@@ -31,7 +31,7 @@ function Varios1() {
       id: 4,
       name: "Hollow knight",
       image:
-        "https://static.wikia.nocookie.net/ultimatepopculture/images/c/c0/Hollow_Knight_cover.jpg/revision/latest?cb=20210617085413",
+        "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028",
       informacion: "Hollow",
       texto:"Discount up to 25%",
     },

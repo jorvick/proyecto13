@@ -31,7 +31,7 @@ function Home1() {
           width="100%"
           height="50px"
           controls
-          playing
+          playing 
           volume="0.2"
           loop
         />
