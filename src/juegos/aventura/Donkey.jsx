@@ -32,7 +32,7 @@ function Donkey() {
       </div>
       <form>
         <fieldset className="div__nav-button-2">
-        <a className="inf__a" href="https://www.nintendo.com/es-co/store/products/donkey-kong-country-tropical-freeze-switch/" arget="_blank" rel="noopener noreferrer">
+        <a className="inf__a" href="https://www.nintendo.com/es-co/store/products/donkey-kong-country-tropical-freeze-switch/" target="_blank" rel="noopener noreferrer">
             Descargar
           </a>
         </fieldset>

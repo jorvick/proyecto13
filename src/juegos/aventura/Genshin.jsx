@@ -32,7 +32,7 @@ function Genshin() {
       </div>
       <form>
         <fieldset className="div__nav-button-2">
-        <a className="inf__a" href="https://genshin.hoyoverse.com/es/home" arget="_blank" rel="noopener noreferrer">
+        <a className="inf__a" href="https://genshin.hoyoverse.com/es/home" target="_blank" rel="noopener noreferrer">
             Descargar
           </a>
         </fieldset>

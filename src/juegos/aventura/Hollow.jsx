@@ -32,7 +32,7 @@ function Hollow() {
       </div>
       <form>
       <fieldset className="div__nav-button-2">
-          <a className="inf__a" href="https://store.steampowered.com/app/367520/Hollow_Knight/" arget="_blank" rel="noopener noreferrer">
+          <a className="inf__a" href="https://store.steampowered.com/app/367520/Hollow_Knight/" target="_blank" rel="noopener noreferrer">
             Descargar
           </a>
 
