@@ -31,7 +31,7 @@ function Varios1() {
       id: 4,
       name: "Hollow knight",
       image:
-        "https://monkeygamer.es/wp-content/uploads/2019/03/capsule_616x353.jpg",
+        "https://static.wikia.nocookie.net/ultimatepopculture/images/c/c0/Hollow_Knight_cover.jpg/revision/latest?cb=20210617085413",
       informacion: "Hollow",
       texto:"Discount up to 25%",
     },
