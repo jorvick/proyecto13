@@ -1,0 +1,24 @@
+.img__div {
+    background: rgba(79, 26, 186, 0.471);
+    box-shadow: 0 0 25px rgba(165, 100, 231, 0.898);
+    display: inline-block;
+    position: relative;
+    justify-content: center;
+    max-width: 95%;
+    min-height: 300px;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: -3px;
+}
+.img__juegos {
+    border: 5px groove rgb(178, 18, 178);
+    border-radius: 12px;
+    box-shadow: 0 0 12px pink;
+    width: 230px;
+    height: 300px;
+    transition-duration: 1s;
+    overflow: hidden;
+}
+.img__juegos:hover {
+    transform: scale(.9);
+}

@@ -1,0 +1,76 @@
+.home__h1-2 {
+    background: rgba(67, 8, 186, 0.471);
+    box-shadow: 0 0 25px rgba(127, 1, 254, 0.866);
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 25px white;
+    font-size: 60px;
+    width: 60%;
+    margin: auto;
+    border: 5px groove rgb(232, 226, 226);
+}
+.contenedor {
+    max-width: 60%;
+    margin: 25px auto;
+    background: rgba(67, 8, 186, 0.471);
+    box-shadow: 0 0 25px rgba(127, 1, 254, 0.866);
+    border: 5px groove rgb(232, 226, 226);
+    display: flex;
+    min-height: 12cm;
+}
+.contenedor__vid {
+    margin-right: 15px;
+    width: 100%;
+    overflow: hidden;
+}
+.contenedor__img {
+    max-width: 30%;
+    max-height: 148px;
+    
+}
+.contenedor__inf{
+    max-width: 275px;
+    background: rgba(67, 8, 186, 0.471);
+    box-shadow: 0 0 25px rgba(127, 1, 254, 0.866);
+    left: 61.8%;
+    top: 48.2%;
+    height: 203px;
+    position: absolute;
+    text-align: center;
+}
+.inf__h3 {
+    color: white;
+    font-size: 25px;
+}
+.inf__h1 {
+    color: white;
+    font-size: 15px;
+    margin-top: 70px;
+}
+.img__c {
+    width: 100%;
+    height: 100%;
+}
+.inf__a {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.div__nav-button-2 {
+    position: relative;
+    width: 100px;
+    margin: auto;
+    height: 25px;
+    overflow: hidden;
+    transition: .2s; 
+    background: rgba(108, 17, 108, 0.664);
+    border: 2px solid white;
+    box-shadow: 0 0 20px blue;
+    overflow: hidden;
+    transition-duration: .5s;
+
+}
+.div__nav-button-2:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,128 @@
+   /*background-image: url(https://img.freepik.com/vector-premium/monitor-computadora-pc-ilustracion-vector-elementos-casa-estilo-dibujos-animados_217290-189.jpg?w=740);*/
+
+   .aud-l{
+    display: none;
+   }
+
+   .div__container-co {
+    display: flex;
+    background-image: url(img/17.png);
+    background-repeat: no-repeat;
+    max-width: 60%;
+    margin: 25px auto;
+    text-align: center;
+    height: 590px;
+   }
+   .co__container {
+    border: 5px groove rgb(232, 226, 226);
+    background: rgba(67, 8, 186, 0.76);
+    box-shadow: 0 0 25px rgba(127, 1, 254, 0.866);
+    width: 400px;
+    height: 285px;
+    margin: auto 225px;
+   }
+   .correr {
+    margin-top: 5px;
+    display: flex;
+   }
+   .div__nav-button-1 {
+    position: relative;
+    width: 100px;
+    margin: auto;
+    height: 50px;
+    overflow: hidden;
+    transition: .2s; 
+    background: rgba(108, 17, 108, 0.664);
+    border: 2px solid white;
+    box-shadow: 0 0 20px blue;
+}
+.div__nav-button-1:hover {
+    background: gray;
+    border: 2px solid black;
+    color: black;
+}
+.div__nav-button-1:hover .div__nav-link-1{
+    color: black;
+    font-weight: 700;
+    text-shadow: 2px 2px darkgray;
+}
+.div__nav-button-1 span{
+    position: absolute;
+    display: block;
+}
+#span1-1 {
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, transparent, black);
+}
+.div__nav-button-1:hover #span1-1{
+    left: 100%;
+    transition: 1s;
+}
+#span3-3 {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(270deg, transparent, black);
+}
+.div__nav-button-1:hover #span3-3{
+    right: 100%;
+    transition: 1s;
+    transition-delay: .5s;
+}
+#span2-2 {
+    top: -100%;
+    right: 0;
+    width: 5px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, black);
+}
+.div__nav-button-1:hover #span2-2{
+    top: 100%;
+    transition: 1s;
+    transition-delay: .25s;
+}
+#span4-4 {
+    bottom: -100%;
+    left: 0;
+    width: 5px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, black);
+}
+.div__nav-button-1:hover #span4-4{
+    bottom: 100%;
+    transition: 1s;
+    transition-delay: .75s;
+}
+.div__nav-link-1 {
+    font-size: 20px;
+    margin: auto;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    text-decoration: none;
+}
+.div__l {
+    margin: auto;
+    width: 70%;
+    height: 350px;
+}
+
+.home__h1-1 {
+    background: rgba(67, 8, 186, 0.471);
+    box-shadow: 0 0 25px rgba(127, 1, 254, 0.866);
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 25px white;
+    font-size: 30px;
+    margin-top: -30px;
+    border: 5px groove rgb(232, 226, 226);
+}
+.l__img {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
