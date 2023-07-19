@@ -8,7 +8,7 @@ function Mortal() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/22.mp4")}
+            url="https://youtu.be/UZ6eFEjFfJ0"
             width="100%"
             height="78%"
             controls

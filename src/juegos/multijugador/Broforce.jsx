@@ -8,7 +8,7 @@ function Broforce() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/9.mp4")}
+            url="https://youtu.be/K6J5HnSLIBI"
             width="100%"
             height="78%"
             controls

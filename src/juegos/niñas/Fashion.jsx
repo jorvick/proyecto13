@@ -8,7 +8,7 @@ function Fashion() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/16.mp4")}
+            url="https://youtu.be/qP6onJKL3K0"
             width="100%"
             height="78%"
             controls

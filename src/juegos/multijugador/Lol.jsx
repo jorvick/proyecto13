@@ -9,7 +9,7 @@ function Lol() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/7.mp4")}
+            url="https://youtu.be/dxF86I9q_Jg"
             width="100%"
             height="78%"
             controls

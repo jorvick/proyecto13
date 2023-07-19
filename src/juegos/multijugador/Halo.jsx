@@ -8,7 +8,7 @@ function Halo() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/12.mp4")}
+            url="https://youtu.be/PyMlV5_HRWk"
             width="100%"
             height="78%"
             controls

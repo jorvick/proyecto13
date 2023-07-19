@@ -8,7 +8,7 @@ function Zelda() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/1.mp4")}
+            url="https://www.youtube.com/watch?v=7J-7OZgxvJk&t=13s"
             width="100%"
             height="78%"
             //controls es para que pueda reproducir el video

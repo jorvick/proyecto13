@@ -8,7 +8,7 @@ function Sweetdoll() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/14.mp4")}
+            url="https://youtu.be/_iwGTkzFXKI"
             width="100%"
             height="78%"
             controls

@@ -8,7 +8,7 @@ function Amnesia() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/20.mp4")}
+            url="https://youtu.be/u1nY_5-UrY4"
             width="100%"
             height="78%"
             controls

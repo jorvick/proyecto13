@@ -8,7 +8,7 @@ function Kof() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/21.mp4")}
+            url="https://youtu.be/3GNl5j58hpo"
             width="100%"
             height="78%"
             controls

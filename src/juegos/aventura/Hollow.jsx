@@ -8,7 +8,7 @@ function Hollow() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/4.mp4")}
+            url="https://youtu.be/UAO2urG23S4"
             width="100%"
             height="78%"
             controls

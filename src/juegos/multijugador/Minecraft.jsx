@@ -8,7 +8,7 @@ function Minecraft() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/10.mp4")}
+            url="https://youtu.be/MmB9b5njVbA"
             width="100%"
             height="78%"
             controls

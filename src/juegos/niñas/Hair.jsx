@@ -8,7 +8,7 @@ function Hair() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/17.mp4")}
+            url="https://youtu.be/Q2kBhUTWMkI"
             width="93%"
             height="78%"
             controls

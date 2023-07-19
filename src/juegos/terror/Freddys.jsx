@@ -8,7 +8,7 @@ function Freddys() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/19.mp4")}
+            url="https://youtu.be/tRf0pd5FS-I"
             width="100%"
             height="78%"
             controls

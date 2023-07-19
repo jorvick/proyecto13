@@ -8,7 +8,7 @@ function Terraria() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/2.mp4")}
+            url="https://youtu.be/6nUvWkD8rAE"
             width="100%"
             height="78%"
             controls

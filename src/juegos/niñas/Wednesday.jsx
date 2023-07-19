@@ -4,11 +4,11 @@ import ReactPlayer from "react-player";
 function Wednesday() {
   return (
     <div>
-      <h1 className="home__h1-2">Hair do desingn 2</h1>
+      <h1 className="home__h1-2">Wednesday</h1>
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/18.mp4")}
+            url="https://youtu.be/geDlQlq_Mlo"
             width="82%"
             height="78%"
             controls

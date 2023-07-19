@@ -8,7 +8,7 @@ function Lastisland() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/24.mp4")}
+            url="https://youtu.be/5OUa59ve_GY"
             width="100%"
             height="78%"
             controls

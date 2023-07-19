@@ -8,7 +8,7 @@ function Donkey() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/6.mp4")}
+            url="https://youtu.be/RjdfdQL8b6w"
             width="90%"
             height="100%"
             controls

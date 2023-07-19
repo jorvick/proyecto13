@@ -8,7 +8,7 @@ function Funny() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/13.mp4")}
+            url="https://youtu.be/KgPHHc6ZNR4"
             width="100%"
             height="78%"
             controls

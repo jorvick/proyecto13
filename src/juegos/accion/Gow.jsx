@@ -8,7 +8,7 @@ function Gow() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/23.mp4")}
+            url="https://youtu.be/AN3jEjjcZ-k"
             width="100%"
             height="78%"
             controls

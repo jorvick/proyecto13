@@ -8,7 +8,7 @@ function Undertale() {
       <div className="contenedor">
         <div className="contenedor__vid">
           <ReactPlayer
-            url={require("../vid/3.mp4")}
+            url="https://youtu.be/ouDaBra6KHc"
             width="100%"
             height="78%"
             controls
