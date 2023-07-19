@@ -26,7 +26,7 @@ function Item() {
     {
       id: 4,
       image:
-        "https://monkeygamer.es/wp-content/uploads/2019/03/capsule_616x353.jpg",
+        "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028",
       informacion: "Hollow",
       texto: "Descuento hasta del 15%",
     },
