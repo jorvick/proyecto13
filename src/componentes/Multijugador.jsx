@@ -11,6 +11,7 @@ function Details() {
       id: 2,
       image:
         "https://i.ebayimg.com/images/g/GwwAAOSwQz1bKscR/s-l500.jpg",
+        informacion:"Mario",
       texto:"Descuento hasta del 15%",
     },
     {
