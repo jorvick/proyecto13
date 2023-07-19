@@ -26,7 +26,7 @@ function Item() {
     {
       id: 4,
       image:
-        "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028",
+        "./4.jpg",
       informacion: "Hollow",
       texto: "Descuento hasta del 15%",
     },
