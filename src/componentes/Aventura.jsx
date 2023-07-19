@@ -25,8 +25,7 @@ function Item() {
     },
     {
       id: 4,
-      image:
-        "./4.jpg",
+      image: "/componentes/aventura/4.jpg",
       informacion: "Hollow",
       texto: "Descuento hasta del 15%",
     },
