@@ -25,7 +25,8 @@ function Item() {
     },
     {
       id: 4,
-      image: "/componentes/aventura/4.jpg",
+      image:
+        "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg?t=1667006028",
       informacion: "Hollow",
       texto: "Descuento hasta del 15%",
     },
